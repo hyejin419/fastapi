@@ -1,0 +1,31 @@
+# 가상 환경
+venv/
+.env
+
+# PyTorch 모델 파일
+*.pt
+*.pth
+
+# PyCache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Gradio 로그
+.gradio/
+
+# 데이터셋 (필요 시 제외)
+data/
+fashion_minst/
+
+# 테스트 결과 등
+test/
+train/
+
+# IDE 설정
+.vscode/
+.idea/
+
+# OS 별 숨김 파일
+.DS_Store
+Thumbs.db
