@@ -6,7 +6,7 @@
 
 ## 프로젝트 구조
 
-
+```
 .
 ├── crawling/               # 크롤링 관련 모듈
 ├── santa/                  # Santa 관련 기능 모듈
@@ -21,8 +21,7 @@
 ├── shape_classifier.py     # 도형 분류기 (머신러닝/딥러닝 모델)
 ├── shape_client.py         # 도형 분류 클라이언트
 └── shape_server.py         # 도형 분류 서버
-
-
+```
 
 
 
